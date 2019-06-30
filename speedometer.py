@@ -13,8 +13,6 @@ import serial
 
 root = tk.Tk()
 
-#lab = Label(root)
-#lab.pack()
 gauge = tk_tools.Gauge(root, width=500, height=300, min_value=0.0, max_value=200.0, label='speed', divisions=10, yellow=50, red=80, yellow_low=0, red_low=0,
 bg='white')
 gauge.grid()
