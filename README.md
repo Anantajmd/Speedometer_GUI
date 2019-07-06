@@ -1,2 +1,2 @@
 # newproject
-this is c programming project
+this is python programming project
